@@ -14,7 +14,7 @@ const animeGreet = `<div class="anime-greet">
                     <div class="ayaka">
                       <audio autoplay src="jihyo.mp3"></audio>
                       <div class="pict">
-                        <img src="jihyo.jpg" alt="ayaka" />
+                        <img src="tw.jpg" alt="ayaka" />
                       </div>
                       <div class="text">
                         <p>Kisah hidupmu adalah bukti bahwa kita dapat menghadapi segala tantangan dan meraih impian kita dengan tekad dan usaha keras.</p>
