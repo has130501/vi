@@ -17,8 +17,8 @@ const animeGreet = `<div class="anime-greet">
                         <img src="tw.jpg" alt="ayaka" />
                       </div>
                       <div class="text">
-                        <p>Kisah hidupmu adalah bukti bahwa kita dapat menghadapi segala tantangan dan meraih impian kita dengan tekad dan usaha keras.</p>
-                        <p>Semoga tahun ini membawa kebahagiaan, kesejahteraan, dan kesuksesan yang berlimpah. Selamat ulang tahun, Pipin!</p>
+                        <p>Kisah hidupmu adalah bukti bahwa kita dapat menghadapi segalanya</p>
+                        <p>Semoga tahun ini membawa kebahagiaan. Selamat ulang tahun, Pipin!</p>
                         <p>Twice</p>
                         <p>Istri Hisham</p>
                       </div>
