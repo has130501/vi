@@ -19,7 +19,7 @@ const animeGreet = `<div class="anime-greet">
                       <div class="text">
                         <p>Kisah hidupmu adalah bukti bahwa kita dapat menghadapi segala tantangan dan meraih impian kita dengan tekad dan usaha keras.</p>
                         <p>Semoga tahun ini membawa kebahagiaan, kesejahteraan, dan kesuksesan yang berlimpah. Selamat ulang tahun, Pipin!</p>
-                        <p>Jihyo, Dkk</p>
+                        <p>Twice</p>
                         <p>Istri Hisham</p>
                       </div>
                     </div>
